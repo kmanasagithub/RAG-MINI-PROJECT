@@ -1,4 +1,3 @@
-Create a file named `README.md` in your project root (same location as `pom.xml` and `docker-compose.yml`) and add the following:
 
 # RAG Mini Project - Spring AI + Ollama + MariaDB Vector Store
 
