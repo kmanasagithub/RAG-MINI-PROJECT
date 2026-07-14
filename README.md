@@ -339,7 +339,7 @@ mvn spring-boot:run
 ## Chat Endpoint
 
 ```
-POST /api/chat
+GET /chat
 ```
 
 Parameters:
@@ -351,7 +351,7 @@ query
 Example:
 
 ```
-http://localhost:8080/api/chat?query=What is the dress code
+http://localhost:8080/chat?query=What is the dress code
 ```
 
 Header:
